@@ -1,2 +1,2 @@
 # alu-web_front_end
-Web development html &amp; css advance
+Web development html &amp; css advanced
